@@ -28,4 +28,4 @@
 | Developer         | Creator of bots that are being used in this server.                                                                                                                                                            |
 | Designer          | Ones who regularly do gfx or VFX work for Team MINZO.                                                                                                                                                             |
 | Verified Girl            | Given only to girls after voice verification.                                                                                                                                     |
-| Membership            | These roles are given according to your time from when you have joined our Discord server. Currently available time roles are 3 months to 5 years.                                                                                                                                     |
+| Members            | Given when you join server                                                                                                                                     |
