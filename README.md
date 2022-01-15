@@ -1,6 +1,6 @@
 <div align="center">
     <img src="https://im5.ezgif.com/tmp/ezgif-5-a71ae76bbf.gif" width="128px" style="max-width:100%;">
-    <h1>Discord Roles - Team Ujjwal</h1>
+    <h1>Discord Roles - Team MINZO</h1>
 </div>
 
 <h3>Staff Roles</h3>
