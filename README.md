@@ -26,4 +26,5 @@
 | Contributor       | Ones who sponsor the server financially under certain circumstances(terms & conditions applied).                                                                                                                |
 | Developer         | Creator of bots that are being used in this server.                                                                                                                                                            |
 
-| Membership            | These roles are given according to your time from when you have joined our Discord server. Currently available time roles are 3 months to 5 years.     
+| Membership            | These roles are given according to your time from when you have joined our Discord server. Currently available time roles are 3 months to 5 years.    
+   |
